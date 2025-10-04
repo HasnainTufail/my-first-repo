@@ -1,12 +1,10 @@
-This is my first GitHub repository!
+# My First Repository
+This is my first Github repository!
 ## Project Description
-Learning Git and GitHub basics
  
-## CHanges from the Main Branch
+## Resolve Merge Changes
+This content combines changes from both branches.
+We successfully resolve the merge conflict!
  
-## Changes from conflict Branch
-This content was added in the conflict-branch.
-We are learning about merge conflict.
- 
-## Changes from Main Branch
-This content was add in the main branch.
+This is a bad commit that we'll revert later.
+Adding incorrect information here.
